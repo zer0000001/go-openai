@@ -12,7 +12,7 @@ This library provides Go clients for [OpenAI API](https://platform.openai.com/).
 
 Installation:
 ```
-go get github.com/sashabaranov/go-openai
+go get github.com/zer0000001/go-openai
 ```
 
 
