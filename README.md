@@ -24,7 +24,7 @@ package main
 import (
 	"context"
 	"fmt"
-	openai "github.com/sashabaranov/go-openai"
+	openai "github.com/zer0000001/go-openai"
 )
 
 func main() {
@@ -202,7 +202,7 @@ import (
 	"context"
 	"fmt"
 
-	openai "github.com/sashabaranov/go-openai"
+	openai "github.com/zer0000001/go-openai"
 )
 
 func main() {
